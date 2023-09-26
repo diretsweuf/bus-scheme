@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Expand Model method type hinting (#8279)
